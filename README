@@ -1,0 +1,7 @@
+Installation
+============
+Download this project. Create the python virtualenv & run "pip install -r requirements.pip". This will install all the required modules. Then run "python tt.py" & it will enter the command prompt of the Simple DB.
+
+Time Required
+=============
+Little over 1.5 hours
